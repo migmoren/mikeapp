@@ -32,3 +32,5 @@ override.tf.json
 # Local executables (if present)
 *.exe
 
+# Python virtual environments
+venv/
